@@ -3,3 +3,4 @@ simon
 dominio
 obi
 datti
+manager
