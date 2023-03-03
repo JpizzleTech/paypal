@@ -7,3 +7,4 @@ Choose the payment type and click Continue.
 Review the details. You can change your funding source by clicking Change under “Payment method”.
 Click Continue.
 Review your payment and click Send Money.
+Application has been tested
