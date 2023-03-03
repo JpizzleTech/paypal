@@ -3,4 +3,5 @@ java applications
 .net application
 NodeJS applications
 python application
-web app added
+web Applications
+Bug removed
