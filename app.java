@@ -5,4 +5,4 @@ NodeJS applications
 python application
 web Applications
 Bug removed
-Aditional bug removed
+adittional bug removed
