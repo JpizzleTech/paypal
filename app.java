@@ -8,3 +8,4 @@ Bug removed
 Iwant to try git stash
 This app is excellent
 excellent job
+adittional bug removed
